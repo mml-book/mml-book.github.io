@@ -9,15 +9,16 @@ to be published by Cambridge University Press
 
 1. Introduction and Motivation
 2. Linear Algebra
-3. Matrix Decomposition
-4. Probability and Distribution
-5. Vector Calculus
-6. Optimization
-7. Further Topics  
+3. Analytic Geometry
+4. Matrix Decomposition
+5. Probability and Distribution
+6. Vector Calculus
+7. Continuous Optimization
+8. Further Topics  
 
 **Part II**  
 
-8. Linear Regression
-9. Classification with Support Vector Machines
-10. Linear Dimensionality Reduction
-11. Density Estimation with Gaussian Mixtures
+9. Linear Regression
+10. Classification with Support Vector Machines
+11. Linear Dimensionality Reduction
+12. Density Estimation with Gaussian Mixtures
