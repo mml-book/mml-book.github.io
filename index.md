@@ -3,6 +3,8 @@
 *by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong*  
 to be published by Cambridge University Press
 
+### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
+
 ## Table of contents
 
 **Part I: Mathematics and Statistics**  
@@ -23,4 +25,4 @@ to be published by Cambridge University Press
 11. Linear Dimensionality Reduction
 12. Density Estimation with Gaussian Mixtures
 
-### Report errata and feedback to [issues](https://github.com/mml-book/book/issues).
+### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
