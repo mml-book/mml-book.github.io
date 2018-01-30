@@ -16,12 +16,12 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
-## Table of contents
+## Table of contents and draft chapters for download
 
 **Part I: Mathematics and Statistics**  
 
 1. Introduction and Motivation
-2. [Linear Algebra](book/chapter02.pdf)
+2. [**Linear Algebra**](book/chapter02.pdf)
 3. Analytic Geometry
 4. Matrix Decompositions
 5. Vector Calculus
