@@ -1,4 +1,4 @@
-# Companion webpage to the book "Mathematics For Machine Learning"
+# Companion webpage to the book "Mathematics for Machine Learning"
 
 *by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong*  
 to be published by Cambridge University Press
