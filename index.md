@@ -22,3 +22,5 @@ to be published by Cambridge University Press
 10. Classification with Support Vector Machines
 11. Linear Dimensionality Reduction
 12. Density Estimation with Gaussian Mixtures
+
+Report errata and feedback to [issues](https://github.com/mml-book/book/issues).
