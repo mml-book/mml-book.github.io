@@ -5,18 +5,18 @@ to be published by Cambridge University Press
 
 ## Table of contents
 
-**Part I**  
+**Part I: Mathematics and Statistics**  
 
 1. Introduction and Motivation
 2. Linear Algebra
 3. Analytic Geometry
-4. Matrix Decomposition
-5. Probability and Distribution
-6. Vector Calculus
+4. Matrix Decompositions
+5. Vector Calculus
+6. Probability and Distribution
 7. Continuous Optimization
 8. Further Topics  
 
-**Part II**  
+**Part II: Example Machine Learning Methods**  
 
 9. Linear Regression
 10. Classification with Support Vector Machines
