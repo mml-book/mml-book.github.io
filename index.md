@@ -20,7 +20,7 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 **Part I: Mathematics and Statistics**  
 
 1. Introduction and Motivation
-2. Linear Algebra
+2. Linear Algebra [pdf](book/chapter02.pdf)
 3. Analytic Geometry
 4. Matrix Decompositions
 5. Vector Calculus
