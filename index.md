@@ -22,7 +22,7 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 
 1. Introduction and Motivation
 2. [**Linear Algebra**](book/chapter02.pdf)
-3. Analytic Geometry
+3. [**Analytic Geometry**](book/chapter03.pdf)
 4. Matrix Decompositions
 5. Vector Calculus
 6. Probability and Distribution
