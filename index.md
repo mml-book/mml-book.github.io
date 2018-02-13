@@ -24,7 +24,7 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 2. [**Linear Algebra**](book/chapter02.pdf)
 3. [**Analytic Geometry**](book/chapter03.pdf)
 4. Matrix Decompositions
-5. Vector Calculus
+5. [**Vector Calculus**](book/chapter05.pdf)
 6. Probability and Distribution
 7. Continuous Optimization
 8. Further Topics  
