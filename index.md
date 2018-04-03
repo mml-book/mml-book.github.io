@@ -33,7 +33,7 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 
 **Part II: Example Machine Learning Methods**  
 
-9. Linear Regression
+9. [**Linear Regression**](book/chapter09.pdf)
 10. Classification with Support Vector Machines
 11. Linear Dimensionality Reduction
 12. Density Estimation with Gaussian Mixtures
