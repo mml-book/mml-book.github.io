@@ -36,6 +36,6 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 9. [**Linear Regression**](book/chapter09.pdf)
 10. Classification with Support Vector Machines
 11. Linear Dimensionality Reduction
-12. Density Estimation with Gaussian Mixtures
+12. [**Density Estimation with Gaussian Mixture Models**](book/chapter12.pdf)
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
