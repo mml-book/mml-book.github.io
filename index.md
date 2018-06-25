@@ -38,4 +38,6 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 11. Linear Dimensionality Reduction
 12. [**Density Estimation with Gaussian Mixture Models**](book/chapter12.pdf)
 
+[**references**](book/references.pdf)
+
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
