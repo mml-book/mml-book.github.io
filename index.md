@@ -35,7 +35,7 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 
 9. [**Linear Regression**](book/chapter09.pdf)
 10. [**Classification with Support Vector Machines**](book/chapter10.pdf)
-11. Linear Dimensionality Reduction
+11. Dimensionality Reduction with Principal Component Analysis
 12. [**Density Estimation with Gaussian Mixture Models**](book/chapter12.pdf)
 
 [**references**](book/references.pdf)
