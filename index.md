@@ -12,7 +12,8 @@ We split the book into two parts:
 * Mathematical foundations
 * Example machine learning algorithms that use the mathematical foundations
 
-We aim to keep this book fairly short (around 300 pages), so we don't cover everything.
+We aim to keep this book fairly short (tried for 300 pages, now close to 400 pages),
+so we don't cover everything.
 
 **We will keep PDFs of this book freely available after publication.**
 
@@ -27,12 +28,12 @@ We aim to keep this book fairly short (around 300 pages), so we don't cover ever
 3. [**Analytic Geometry**](book/chapter03.pdf)
 4. Matrix Decompositions
 5. [**Vector Calculus**](book/chapter05.pdf)
-6. Probability and Distribution
+6. [**Probability and Distribution**](book/chapter06.pdf)
 7. [**Continuous Optimization**](book/chapter07.pdf)
-8. Further Topics  
 
 **Part II: Example Machine Learning Methods**  
 
+8. When Models Meet Data
 9. [**Linear Regression**](book/chapter09.pdf)
 10. [**Classification with Support Vector Machines**](book/chapter10.pdf)
 11. Dimensionality Reduction with Principal Component Analysis
