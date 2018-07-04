@@ -19,7 +19,9 @@ so we don't cover everything.
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
-## Table of contents and draft chapters for download
+[**Table of Contents**](book/toc.pdf)
+
+##  Draft chapters for download
 
 **Part I: Mathematics and Statistics**  
 
@@ -35,9 +37,9 @@ so we don't cover everything.
 
 8. When Models Meet Data
 9. [**Linear Regression**](book/chapter09.pdf)
-10. [**Classification with Support Vector Machines**](book/chapter10.pdf)
-11. Dimensionality Reduction with Principal Component Analysis
-12. [**Density Estimation with Gaussian Mixture Models**](book/chapter12.pdf)
+10. Dimensionality Reduction with Principal Component Analysis
+11. [**Density Estimation with Gaussian Mixture Models**](book/chapter11.pdf)
+12. [**Classification with Support Vector Machines**](book/chapter12.pdf)
 
 [**references**](book/references.pdf)
 
