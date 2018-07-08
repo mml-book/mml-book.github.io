@@ -37,7 +37,7 @@ so we don't cover everything.
 
 8. When Models Meet Data
 9. [**Linear Regression**](book/chapter09.pdf)
-10. Dimensionality Reduction with Principal Component Analysis
+10. [**Dimensionality Reduction with Principal Component Analysis**](book/chapter10.pdf)
 11. [**Density Estimation with Gaussian Mixture Models**](book/chapter11.pdf)
 12. [**Classification with Support Vector Machines**](book/chapter12.pdf)
 
