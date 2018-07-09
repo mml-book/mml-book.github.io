@@ -23,9 +23,11 @@ so we don't cover everything.
 
 ##  Draft chapters for download
 
+[**Foreword**](book/foreword.pdf)
+
 **Part I: Mathematics and Statistics**  
 
-1. Introduction and Motivation
+1. [**Introduction and Motivation**](book/chapter01.pdf)
 2. [**Linear Algebra**](book/chapter02.pdf)
 3. [**Analytic Geometry**](book/chapter03.pdf)
 4. Matrix Decompositions
