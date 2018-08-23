@@ -37,7 +37,7 @@ so we don't cover everything.
 
 **Part II: Example Machine Learning Methods**  
 
-8. When Models Meet Data
+8. [**When Models Meet Data**](book/chapter08.pdf)
 9. [**Linear Regression**](book/chapter09.pdf)
 10. [**Dimensionality Reduction with Principal Component Analysis**](book/chapter10.pdf)
 11. [**Density Estimation with Gaussian Mixture Models**](book/chapter11.pdf)
