@@ -25,7 +25,7 @@ so we don't cover everything.
 
 [**Foreword**](book/foreword.pdf)
 
-**Part I: Mathematics and Statistics**  
+**Part I: Mathematical Foundations**  
 
 1. [**Introduction and Motivation**](book/chapter01.pdf)
 2. [**Linear Algebra**](book/chapter02.pdf)
@@ -35,7 +35,7 @@ so we don't cover everything.
 6. [**Probability and Distribution**](book/chapter06.pdf)
 7. [**Continuous Optimization**](book/chapter07.pdf)
 
-**Part II: Example Machine Learning Methods**  
+**Part II: Central Machine Learning Problems**  
 
 8. [**When Models Meet Data**](book/chapter08.pdf)
 9. [**Linear Regression**](book/chapter09.pdf)
