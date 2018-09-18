@@ -44,6 +44,7 @@ so we don't cover everything.
 12. [**Classification with Support Vector Machines**](book/chapter12.pdf)
 
 [**references**](book/references.pdf)
+
 [**index**](book/index.pdf)
 
 
