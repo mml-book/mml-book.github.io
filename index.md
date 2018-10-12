@@ -20,6 +20,7 @@ so we don't cover everything.
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
 [**Table of Contents**](book/toc.pdf)
+[**Notation**](book/notation.pdf)
 
 ##  Draft chapters for download
 
