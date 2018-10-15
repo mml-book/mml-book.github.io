@@ -3,6 +3,8 @@
 *Copyright 2018 by Marc Peter Deisenroth, A Aldo Faisal,
 and Cheng Soon Ong.* To be published by Cambridge University Press.
 
+Twitter:[\@mpd37](https://twitter.com/mpd37), [\@AnalogAldo](https://twitter.com/analogaldo), [\@ChengSoonOng](https://twitter.com/ChengSoonOng).
+
 Please link to this site using [https://mml-book.com](https://mml-book.com).
 
 We are in the process of writing a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
@@ -19,8 +21,8 @@ so we don't cover everything.
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
-[**Table of Contents**](book/toc.pdf)
-[**Notation**](book/notation.pdf)
+* [**Table of Contents**](book/toc.pdf)
+* [**Notation**](book/notation.pdf)
 
 ##  Draft chapters for download
 
