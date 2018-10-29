@@ -17,7 +17,7 @@ title: Mathematics for Machine Learning
 email: feedback@mml-book.com
 description: >- # this means to ignore newlines until "baseurl:"
   Companion webpage to the book "Mathematics for Machine Learning".
-  The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books. We will keep PDFs of this book freely available after publication.
+  Copyright 2018 by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. To be published by Cambridge University Press.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mml-book.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
