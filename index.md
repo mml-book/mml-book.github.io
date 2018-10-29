@@ -1,9 +1,13 @@
+___
+title: Mathematics for Machine Learning
+---
+
 # Companion webpage to the book "Mathematics for Machine Learning"
 
 *Copyright 2018 by Marc Peter Deisenroth, A Aldo Faisal,
 and Cheng Soon Ong.* To be published by Cambridge University Press.
 
-Twitter:[\@mpd37](https://twitter.com/mpd37), [\@AnalogAldo](https://twitter.com/analogaldo), [\@ChengSoonOng](https://twitter.com/ChengSoonOng).
+Twitter:[@mpd37](https://twitter.com/mpd37), [@AnalogAldo](https://twitter.com/analogaldo), [@ChengSoonOng](https://twitter.com/ChengSoonOng).
 
 Please link to this site using [https://mml-book.com](https://mml-book.com).
 
