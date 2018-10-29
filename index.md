@@ -38,6 +38,7 @@ so we don't cover everything.
 
 **Part II: Central Machine Learning Problems**  
 
+{:start="8"}
 8. [**When Models Meet Data**](book/chapter08.pdf)
 9. [**Linear Regression**](book/chapter09.pdf)
 10. [**Dimensionality Reduction with Principal Component Analysis**](book/chapter10.pdf)

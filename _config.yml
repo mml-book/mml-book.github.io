@@ -25,7 +25,7 @@ github_username:  mml-book
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
