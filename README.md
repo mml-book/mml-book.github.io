@@ -12,4 +12,4 @@ We split the book into two parts:
 * Mathematical foundations
 * Example machine learning algorithms that use the mathematical foundations
 
-We aim to keep this book fairly short (around 400-450 pages), so we cannot cover everything.
+We aim to keep this book reasonably short, so we cannot cover everything. We will also provide exercises for part 1 and jupyter notebooks for part 2 of the book.
