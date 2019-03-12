@@ -20,8 +20,11 @@ so we don't cover everything.
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
 
+## PDF of the book
+[**Book**](book/mml-book.pdf)
 
-##  Draft chapters for download
+
+##  Individual draft chapters for download
 
 [**Frontmatter**](book/frontmatter.pdf)
 
