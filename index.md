@@ -17,8 +17,6 @@ so we don't cover everything.
 
 **We will keep PDFs of this book freely available after publication.**
 
-### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
-
 
 ## [PDF of the book](book/mml-book.pdf)
 
@@ -51,5 +49,4 @@ so we don't cover everything.
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
-We submitted the final draft for copy-editing. Therefore, any issues you raise
-may not make it into the published version.
+We submitted the final draft for copy-editing. Therefore, any issues you raise now may not make it into the printed version.
