@@ -32,7 +32,7 @@ so we don't cover everything.
 1. [**Introduction and Motivation**](book/chapter01.pdf)
 2. [**Linear Algebra**](book/chapter02.pdf)
 3. [**Analytic Geometry**](book/chapter03.pdf)
-4. [**Matrix Decompositions**](book/chapter04.pdf)
+4. [**Matrix Decompositions**](https://github.com/mml-book/mml-book.github.io/blob/master/book/chapter04.pdf)
 5. [**Vector Calculus**](book/chapter05.pdf)
 6. [**Probability and Distribution**](book/chapter06.pdf)
 7. [**Continuous Optimization**](book/chapter07.pdf)
