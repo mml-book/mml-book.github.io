@@ -12,41 +12,42 @@ We split the book into two parts:
 * Mathematical foundations
 * Example machine learning algorithms that use the mathematical foundations
 
-We aim to keep this book fairly short (tried for 300 pages, now close to 400 pages),
-so we don't cover everything.
+We aim to keep this book fairly short, so we don't cover everything.
 
 **We will keep PDFs of this book freely available after publication.**
 
 
-## [PDF of the book](book/mml-book.pdf)
+## Download the [PDF of the book](book/mml-book.pdf)
 
 
-##  Individual draft chapters for download
-
-[**Frontmatter**](book/frontmatter.pdf)
+##  Table of Contents
 
 **Part I: Mathematical Foundations**  
 
-1. [**Introduction and Motivation**](book/chapter01.pdf)
-2. [**Linear Algebra**](book/chapter02.pdf)
-3. [**Analytic Geometry**](book/chapter03.pdf)
-4. [**Matrix Decompositions**](https://github.com/mml-book/mml-book.github.io/blob/master/book/chapter04.pdf)
-5. [**Vector Calculus**](book/chapter05.pdf)
-6. [**Probability and Distribution**](book/chapter06.pdf)
-7. [**Continuous Optimization**](book/chapter07.pdf)
+1. **Introduction and Motivation**
+2. **Linear Algebra**
+3. **Analytic Geometry**
+4. **Matrix Decompositions**
+5. **Vector Calculus**
+6. **Probability and Distribution**
+7. **Continuous Optimization**
 
 **Part II: Central Machine Learning Problems**  
 
 {:start="8"}
-8. [**When Models Meet Data**](book/chapter08.pdf)
-9. [**Linear Regression**](book/chapter09.pdf)
-10. [**Dimensionality Reduction with Principal Component Analysis**](book/chapter10.pdf)
-11. [**Density Estimation with Gaussian Mixture Models**](book/chapter11.pdf)
-12. [**Classification with Support Vector Machines**](book/chapter12.pdf)
-
-[**References and Index**](book/backmatter.pdf)
+8. **When Models Meet Data**
+9. **Linear Regression**
+10. **Dimensionality Reduction with Principal Component Analysis**
+11. **Density Estimation with Gaussian Mixture Models**
+12. **Classification with Support Vector Machines**
 
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
 We submitted the final draft for copy-editing. Therefore, any issues you raise now may not make it into the printed version.
+
+## Tutorials
+We are working on some jupyter notebook tutorials for the machine learning parts:
+
+1. [**Linear Regression**](tutorials/tutorial_linear_regression.ipynb)
+2. [**Gaussian Mixture Models**](tutorials/tutorial_gmm.ipynb)
