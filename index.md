@@ -7,6 +7,10 @@ Twitter:[@mpd37](https://twitter.com/mpd37), [@AnalogAldo](https://twitter.com/a
 
 We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
 
+The book will be [published by Cambridge University Press](https://www.cambridge.org/au/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning?format=PB&isbn=9781108455145) in early 2020.
+
+![book cover](static/images/mml-book-cover.jpg)
+
 We split the book into two parts:
 
 * Mathematical foundations
