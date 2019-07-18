@@ -55,3 +55,4 @@ We are working on some jupyter notebook tutorials for the machine learning parts
 
 1. [**Linear Regression**](tutorials/tutorial_linear_regression.ipynb)
 2. [**Gaussian Mixture Models**](tutorials/tutorial_gmm.ipynb)
+3. [**PCA**](tutorials/tutorial_pca.ipynb)
