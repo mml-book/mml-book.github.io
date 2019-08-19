@@ -51,8 +51,9 @@ We aim to keep this book fairly short, so we don't cover everything.
 We submitted the final draft for copy-editing. Therefore, any issues you raise now may not make it into the printed version.
 
 ## Tutorials
-We are working on some jupyter notebook tutorials for the machine learning parts:
+We are working on jupyter notebook tutorials for the machine learning parts:
 
 1. [Linear Regression](https://github.com/mml-book/mml-book.github.io/tree/master/tutorials/tutorial_linear_regression.ipynb)
 2. [Gaussian Mixture Models](tutorials/tutorial_gmm.ipynb)
 3. [PCA](tutorials/tutorial_pca.ipynb)
+4. SVM (work in progress)
