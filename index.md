@@ -3,7 +3,7 @@
 
 Please link to this site using [https://mml-book.com](https://mml-book.com).
 
-Twitter:[@mpd37](https://twitter.com/mpd37), [@AnalogAldo](https://twitter.com/analogaldo), [@ChengSoonOng](https://twitter.com/ChengSoonOng).
+Twitter: [@mpd37](https://twitter.com/mpd37), [@AnalogAldo](https://twitter.com/analogaldo), [@ChengSoonOng](https://twitter.com/ChengSoonOng).
 
 ![book cover](static/images/mml-book-cover.jpg){:style="float: right"}
 
@@ -53,6 +53,6 @@ We submitted the final draft for copy-editing. Therefore, any issues you raise n
 ## Tutorials
 We are working on some jupyter notebook tutorials for the machine learning parts:
 
-1. [**Linear Regression**](tutorials/tutorial_linear_regression.ipynb)
-2. [**Gaussian Mixture Models**](tutorials/tutorial_gmm.ipynb)
-3. [**PCA**](tutorials/tutorial_pca.ipynb)
+1. [Linear Regression](https://github.com/mml-book/mml-book.github.io/tree/master/tutorials/tutorial_linear_regression.ipynb)
+2. [Gaussian Mixture Models](tutorials/tutorial_gmm.ipynb)
+3. [PCA](tutorials/tutorial_pca.ipynb)
