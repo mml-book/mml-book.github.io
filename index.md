@@ -22,10 +22,10 @@ We aim to keep this book fairly short, so we don't cover everything.
 
 
 ## Downloads
-### [PDF of the printed book](book/mml-book_printed.pdf)
-This version is equivalent (modulo formatting) with the printed version of the book
 ### [PDF of the book](book/mml-book.pdf)
 This version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
+### [PDF of the printed book](book/mml-book_printed.pdf)
+This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
 
 
 ##  Table of Contents
