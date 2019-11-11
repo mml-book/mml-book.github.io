@@ -20,14 +20,6 @@ We aim to keep this book fairly short, so we don't cover everything.
 
 **We will keep PDFs of this book freely available after publication.**
 
-
-## Downloads
-### [PDF of the book](book/mml-book.pdf)
-This version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
-### [PDF of the printed book](book/mml-book_printed.pdf)
-This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
-
-
 ##  Table of Contents
 
 **Part I: Mathematical Foundations**  
@@ -52,7 +44,16 @@ This version is equivalent (modulo formatting) with the printed version of the b
 
 ### [Report errata and feedback](https://github.com/mml-book/mml-book.github.io/issues).
 
-We submitted the final draft for copy-editing. Therefore, any issues you raise now may not make it into the printed version.
+Any issues you raise now may not make it into the printed version, but we will keep an updated PDF around (and the errata).
+
+
+## Downloads
+### [PDF of the book](book/mml-book.pdf)
+This version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
+### [Errata on overleaf](https://www.overleaf.com/read/gskfhtxdwtmh)
+### [PDF of the printed book](book/mml-book_printed.pdf)
+This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
+
 
 ## Tutorials
 We are working on jupyter notebook tutorials for the machine learning parts:
@@ -69,5 +70,5 @@ Joelle Pineau
 'The field of machine learning has grown dramatically in recent years, with an increasingly impressive spectrum of successful applications. This comprehensive text covers the key mathematical concepts that underpin modern machine learning, with a focus on linear algebra, calculus, and probability theory. It will prove valuable both as a tutorial for newcomers to the field, and as a reference text for machine learning researchers and engineers.'
 Christopher Bishop
 
-'The book hits the right level of detail for me. Too many of the ML books have a "don’t worry your pretty head about this detail" mentality,   or go the other way and overwhelm me with detail. Your book is comprehensive and has a sense of ease and expanse, but it feels like I can get to the application part quickly enough.'
+'The book hits the right level of detail for me. Too many of the ML books have a "don't worry your pretty head about this detail" mentality, or go the other way and overwhelm me with detail. Your book is comprehensive and has a sense of ease and expanse, but it feels like I can get to the application part quickly enough.'
 Sriram Srinivasan
