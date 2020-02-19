@@ -58,9 +58,9 @@ This version is equivalent (modulo formatting) with the printed version of the b
 ## Tutorials
 We are working on jupyter notebook tutorials for the machine learning parts:
 
-1. [Linear Regression](https://github.com/mml-book/mml-book.github.io/tree/master/tutorials/tutorial_linear_regression.ipynb)
-2. [Gaussian Mixture Models](tutorials/tutorial_gmm.ipynb)
-3. [PCA](tutorials/tutorial_pca.ipynb)
+1. [Linear Regression](https://nbviewer.jupyter.org/github.com/mml-book/mml-book.github.io/tree/master/tutorials/tutorial_linear_regression.ipynb)
+2. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb)
+3. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
 4. SVM (work in progress)
 
 ## Testimonies
