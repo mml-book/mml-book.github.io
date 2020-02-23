@@ -13,3 +13,5 @@ We split the book into two parts:
 * Example machine learning algorithms that use the mathematical foundations
 
 We aim to keep this book reasonably short, so we cannot cover everything. We will also provide exercises for part 1 and jupyter notebooks for part 2 of the book.
+
+The notebooks can be run live on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mml-book/mml-book.github.io/master?filepath=tutorials).
