@@ -65,10 +65,13 @@ We are working on jupyter notebook tutorials for the machine learning parts:
 
 ## Testimonies
 'This book provides great coverage of all the basic mathematical concepts for machine learning. I'm looking forward to sharing it with students, colleagues, and anyone interested in building a solid understanding of the fundamentals.'
-Joelle Pineau
+Joelle Pineau, McGill University and Facebook
 
 'The field of machine learning has grown dramatically in recent years, with an increasingly impressive spectrum of successful applications. This comprehensive text covers the key mathematical concepts that underpin modern machine learning, with a focus on linear algebra, calculus, and probability theory. It will prove valuable both as a tutorial for newcomers to the field, and as a reference text for machine learning researchers and engineers.'
-Christopher Bishop
+Christopher Bishop, Microsoft Research Cambridge
+
+'This book provides a beautiful exposition of the mathematics underpinning modern machine learning. Highly recommended for anyone wanting a one-stop shop to acquire a deep understanding of machine learning foundations.'
+Pieter Abbeel, University of California, Berkeley
 
 'The book hits the right level of detail for me. Too many of the ML books have a "don't worry your pretty head about this detail" mentality, or go the other way and overwhelm me with detail. Your book is comprehensive and has a sense of ease and expanse, but it feels like I can get to the application part quickly enough.'
 Sriram Srinivasan
