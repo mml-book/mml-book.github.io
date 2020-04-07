@@ -63,6 +63,10 @@ We are working on jupyter notebook tutorials for the machine learning parts:
 3. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
 4. SVM (work in progress)
 
+
+## External resources
+Other people have created [resources](/external.html) that support the material in this book.
+
 ## Testimonies
 'This book provides great coverage of all the basic mathematical concepts for machine learning. I'm looking forward to sharing it with students, colleagues, and anyone interested in building a solid understanding of the fundamentals.'
 Joelle Pineau, McGill University and Facebook
