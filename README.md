@@ -16,7 +16,7 @@ We aim to keep this book reasonably short, so we cannot cover everything. We wil
 
 The notebooks can be run live on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mml-book/mml-book.github.io/master?filepath=tutorials).
 
-Alternatively try them directly on Google Colab 
+Alternatively try them directly on **Google Colab** 
 
 | Title | Tutorial Notebook  | Solution |
 |-|:-:|:-:|
