@@ -9,7 +9,7 @@ Twitter: [@mpd37](https://twitter.com/mpd37), [@AnalogAldo](https://twitter.com/
 
 We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.
 
-The book will be [published by Cambridge University Press](https://www.cambridge.org/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning?format=PB) in early 2020.
+The book is available at [published by Cambridge University Press](https://www.cambridge.org/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning?format=PB) (published April 2020).
 
 We split the book into two parts:
 
@@ -50,25 +50,40 @@ Any issues you raise now may not make it into the printed version, but we will k
 ## Downloads
 ### [PDF of the book](book/mml-book.pdf)
 This version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
+### [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
 ### [Errata on overleaf](https://www.overleaf.com/read/gskfhtxdwtmh)
 ### [PDF of the printed book](book/mml-book_printed.pdf)
 This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
 
 
 ## Tutorials
-We are working on jupyter notebook tutorials for the machine learning parts:
+We are working on jupyter notebook tutorials for the machine learning parts.
 
-1. [Linear Regression](https://github.com/mml-book/mml-book.github.io/tree/master/tutorials/tutorial_linear_regression.ipynb)
-2. [Gaussian Mixture Models](tutorials/tutorial_gmm.ipynb)
-3. [PCA](tutorials/tutorial_pca.ipynb)
+### Tutorials (for learning)
+1. [Linear Regression](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb)
+2. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
+3. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb)
 4. SVM (work in progress)
+
+### Tutorials (solutions)
+1. [Linear Regression](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.solution.ipynb)
+2. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.solution.ipynb)
+3. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.solution.ipynb)
+4. SVM (work in progress)
+
+
+## External resources
+Other people have created [resources](/external.html) that support the material in this book.
 
 ## Testimonies
 'This book provides great coverage of all the basic mathematical concepts for machine learning. I'm looking forward to sharing it with students, colleagues, and anyone interested in building a solid understanding of the fundamentals.'
-Joelle Pineau
+Joelle Pineau, McGill University and Facebook
 
 'The field of machine learning has grown dramatically in recent years, with an increasingly impressive spectrum of successful applications. This comprehensive text covers the key mathematical concepts that underpin modern machine learning, with a focus on linear algebra, calculus, and probability theory. It will prove valuable both as a tutorial for newcomers to the field, and as a reference text for machine learning researchers and engineers.'
-Christopher Bishop
+Christopher Bishop, Microsoft Research Cambridge
+
+'This book provides a beautiful exposition of the mathematics underpinning modern machine learning. Highly recommended for anyone wanting a one-stop shop to acquire a deep understanding of machine learning foundations.'
+Pieter Abbeel, University of California, Berkeley
 
 'The book hits the right level of detail for me. Too many of the ML books have a "don't worry your pretty head about this detail" mentality, or go the other way and overwhelm me with detail. Your book is comprehensive and has a sense of ease and expanse, but it feels like I can get to the application part quickly enough.'
 Sriram Srinivasan
