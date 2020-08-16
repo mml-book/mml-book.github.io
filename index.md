@@ -67,8 +67,8 @@ We are working on jupyter notebook tutorials for the machine learning parts.
 
 ### Tutorials (solutions)
 1. [Linear Regression](/tutorials/tutorial_linear_regression.solution.ipynb)
-2. [PCA](/tutorials/tutorials/tutorial_pca.solution.ipynb)
-3. [Gaussian Mixture Models](/tutorials/tutorials/tutorial_gmm.solution.ipynb)
+2. [PCA](/tutorials/tutorial_pca.solution.ipynb)
+3. [Gaussian Mixture Models](/tutorials/tutorial_gmm.solution.ipynb)
 4. SVM (work in progress)
 
 
