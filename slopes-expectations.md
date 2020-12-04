@@ -25,3 +25,6 @@ Draft notes covering the same topics as the videos below will be available on [a
 10. Method of Adjoints [video](https://youtu.be/jgcQHLKh55c) [slides](neurips2020/10-adjoint.pdf)
 11. Method of Lagrange [video](https://youtu.be/rTFWxoa3u-8) [slides](neurips2020/11-lagrange.pdf)
 12. Stochastic Gradient Estimators [video](https://youtu.be/7wdIu2dNpY8) [slides](neurips2020/12-stochastic-gradient.pdf)
+
+
+![map of calculus island](neurips2020/NeurIPS2020-tutorial-map.png){:style="text-align: center"}
