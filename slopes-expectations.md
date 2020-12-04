@@ -5,7 +5,7 @@
 
 Marc Deisenroth and Cheng Soon Ong
 
-_07 December 2021, NeurIPS 2020 tutorial_ [NeurIPS link](https://neurips.cc/Conferences/2020/Schedule?showEvent=16646)
+_07 December 2020, NeurIPS 2020 tutorial_ [NeurIPS link](https://neurips.cc/Conferences/2020/Schedule?showEvent=16646)
 
 An introduction to integration and differentiation
 
