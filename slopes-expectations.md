@@ -11,6 +11,8 @@ An introduction to integration and differentiation
 
 Draft notes covering the same topics as the videos below will be available on [arxiv]() soon.
 
+**Video on [slideslive](https://slideslive.com/38935796)**
+
 **One single [playlist](https://www.youtube.com/playlist?list=PL93aLKqThq4h7UpgeNhkOtEeCnX3DMseS)**
 
 1. Overview [video](https://youtu.be/k42AKAlGQAA)
