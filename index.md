@@ -56,24 +56,25 @@ This version is the most up-to-date version of the book, i.e., we continue fixin
 This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
 
 ## Solutions to exercises
-### [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
-### [Additional exercises (with solutions)](https://www.overleaf.com/read/jvnwngmkpckc)
+- [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
+- [Additional exercises (with solutions)](https://www.overleaf.com/read/jvnwngmkpckc)
 
 
 ## Tutorials
-We are working on jupyter notebook tutorials for the machine learning parts.
 
-### Tutorials (for learning)
-1. [Linear Regression](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb)
-2. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
-3. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb)
-4. SVM (work in progress)
+- Jupyter notebook tutorials (for learning)
+	1. [Linear Regression](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb)
+	2. [PCA](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_pca.ipynb)
+	3. [Gaussian Mixture Models](https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_gmm.ipynb)
+	4. SVM (work in progress)
 
-### Tutorials (solutions)
-1. [Linear Regression](tutorials/tutorial_linear_regression.solution.ipynb)
-2. [PCA](tutorials/tutorial_pca.solution.ipynb)
-3. [Gaussian Mixture Models](tutorials/tutorial_gmm.solution.ipynb)
-4. SVM (work in progress)
+- Jupyter notebook tutorials (solutions)
+	1. [Linear Regression](tutorials/tutorial_linear_regression.solution.ipynb)
+	2. [PCA](tutorials/tutorial_pca.solution.ipynb)
+	3. [Gaussian Mixture Models](tutorials/tutorial_gmm.solution.ipynb)
+	4. SVM (work in progress)
+
+- [NeurIPS-2020 tutorial on integration and differentiation](https://mml-book.github.io/slopes-expectations.html)
 
 
 ## External resources
