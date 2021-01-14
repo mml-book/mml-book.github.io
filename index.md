@@ -55,6 +55,10 @@ This version is the most up-to-date version of the book, i.e., we continue fixin
 ### [PDF of the printed book](book/mml-book_printed.pdf)
 This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
 
+## Solutions to exercises
+### [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
+### [Additional exercises (with solutions)](https://www.overleaf.com/read/jvnwngmkpckc)
+
 
 ## Tutorials
 We are working on jupyter notebook tutorials for the machine learning parts.
