@@ -1,6 +1,3 @@
----
----
-
 # There and Back Again: A Tale of Slopes and Expectations
 
 Marc Deisenroth and Cheng Soon Ong
@@ -28,5 +25,6 @@ Draft notes covering the same topics as the videos below will be available on [a
 11. Method of Lagrange [video](https://youtu.be/rTFWxoa3u-8) [slides](neurips2020/11-lagrange.pdf)
 12. Stochastic Gradient Estimators [video](https://youtu.be/7wdIu2dNpY8) [slides](neurips2020/12-stochastic-gradient.pdf)
 
-
-![map of calculus island](neurips2020/NeurIPS2020-tutorial-map.png){:style="text-align: center"}
+<p align="center">
+   <img src="neurips2020/NeurIPS2020-tutorial-map.png">
+</p>
