@@ -49,15 +49,12 @@ Any issues you raise now may not make it into the printed version, but we will k
 
 
 ## Downloads/Links
-### [PDF of the book](book/mml-book.pdf)
-This version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
-### Additional Chapters (not part of the official book)
-- [Modern Integration Methods](book/additional_chapters/integration-methods.pdf)
-
-### [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
-### [Errata on overleaf](https://www.overleaf.com/read/gskfhtxdwtmh)
-### [PDF of the printed book](book/mml-book_printed.pdf)
-This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
+- [PDF of the book](book/mml-book.pdf). This version is the most up-to-date version of the book, i.e., we continue fixing typos etc.
+- Additional Chapters (not part of the official book)
+	- [Modern Integration Methods](book/additional_chapters/integration-methods.pdf)
+- [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
+- [Errata on overleaf](https://www.overleaf.com/read/gskfhtxdwtmh)
+- [PDF of the printed book](book/mml-book_printed.pdf) This version is equivalent (modulo formatting) with the printed version of the book. GitHub issues starting from 433 are not included in this version.
 
 ## Solutions to exercises
 - [Instructor's manual containing solutions to the exercises](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/mathematics-machine-learning) (can be requested from Cambridge University Press)
